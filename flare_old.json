@@ -2,7 +2,7 @@
  "name": "Swiggy WebScrapping",
  "children": [
   {
-   "name": "Resturants Name and Food Items",
+   "name": "Restaurants Name and Food Items",
    "children": [
     {
      "name": "Try Luck",
