@@ -10,6 +10,8 @@ Meta Data Information
  
 • Web scraping is data scraping used for extracting data from websites using its HTML structure.
 
+• The dataset is available in the JSON file
+
 • I have extracted data from Swiggy website using classes and HTML tags
 
 • I have created animated indent chart using d3.js.
