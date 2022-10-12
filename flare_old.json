@@ -1,0 +1,202 @@
+{
+ "name": "Swiggy WebScrapping",
+ "children": [
+  {
+   "name": "Resturants Name and Food Items",
+   "children": [
+    {
+     "name": "Try Luck",
+     "children": [
+	{"name": "North Indian", "size": 3534},
+        {"name": "Biryani", "size": 3534},
+        {"name": "Chinese", "size": 3534},
+        {"name": "Mughlai", "size": 5731},
+        {"name": "Punjabi", "size": 7840},
+        {"name": "Kebabs", "size": 3534},
+        {"name": "Beverages", "size": 3534}
+	]
+    },
+    {
+        "name": "AI Barkat",
+        "children": [
+           {"name": "North Indian", "size": 3534},
+           {"name": "Biryani", "size": 3534},
+           {"name": "Chinese", "size": 3534},
+           {"name": "Mughlai", "size": 5731},
+           {"name": "Punjabi", "size": 7840},
+           {"name": "Kebabs", "size": 3534},
+           {"name": "Beverages", "size": 3534}
+           ]
+       },
+    {
+     "name": "Alfa Southinn Cafe",
+     "children": [
+      {"name": "Lebanese", "size": 3534},
+      {"name": "Biryani", "size": 5731},
+      {"name": "Kirala", "size": 7840},
+      {"name": "North Indian", "size": 5914}
+     ]
+    },
+    {
+     "name": "Hotel New Zaika",
+     "children": [
+      {"name": "North Indian", "size": 7074},
+      {"name": "Biryani", "size": 7074},
+      {"name": "Chinese", "size": 7074},
+      {"name": "Mughlai", "size": 7074},
+      {"name": "Punjabi", "size": 7074},
+      {"name": "Kebabs", "size": 7074},
+      {"name": "Beverages", "size": 7074}
+     ]
+    },
+   
+
+       {
+        "name": "SimSim",
+        "children": [
+         {"name": "North Indian", "size": 7074},
+         {"name": "Biryani", "size": 7074},
+         {"name": "Chinese", "size": 7074},
+         {"name": "Mughlai", "size": 7074},
+         {"name": "Punjabi", "size": 7074},
+         {"name": "Kebabs", "size": 7074},
+         {"name": "Beverages", "size": 7074}
+        ]
+       },
+      
+  {
+   "name": "Tawakkal",
+   "children": [
+    
+        {"name": "North Indian", "size": 3534},
+        {"name": "Biryani", "size": 3534},
+        {"name": "Chinese", "size": 3534},
+        {"name": "Mughlai", "size": 5731},
+        {"name": "Punjabi", "size": 7840},
+        {"name": "Kebabs", "size": 3534},
+        {"name": "Beverages", "size": 3534}
+     ]
+   
+  },
+  {
+   "name": "Bebe Di Rasoi-Punjabi",
+   "children": [
+        {"name": "North Indian", "size": 3534},
+        {"name": "Punjabi", "size": 3534},
+        {"name": "Biryani", "size": 3534},
+        {"name": "Kebabs", "size": 3534},
+        {"name": "Mughlai", "size": 5731},
+        {"name": "Desserts", "size": 7840},
+        {"name": "Beverages", "size": 3534}
+   ]
+  },
+  {
+   "name": "Singham",
+   "children": [
+        {"name": "North Indian", "size": 3534},
+        {"name": "Biryani", "size": 3534},
+        {"name": "Chinese", "size": 3534},
+        {"name": "Mughlai", "size": 5731},
+        {"name": "Punjabi", "size": 7840},
+        {"name": "Kebabs", "size": 3534},
+        {"name": "Beverages", "size": 3534}
+   ]
+  },
+  {
+   "name": "Shah Restaurant",
+   "children": [
+        {"name": "North Indian", "size": 3534},
+        {"name": "Biryani", "size": 3534},
+        {"name": "Chinese", "size": 3534},
+        {"name": "Mughlai", "size": 5731},
+        {"name": "Punjabi", "size": 7840},
+        {"name": "Kebabs", "size": 3534},
+        {"name": "Beverages", "size": 3534}
+   ]
+  },
+  {
+   "name": "PUNJAB JUNCTION",
+   "children": [
+
+        {"name": " Indian", "size": 3534},
+        {"name": "North Indian", "size": 3534},
+        {"name": "Biryani", "size": 3534}
+
+    
+   ]
+  },
+  {
+   "name": "Happy Singh",
+   "children": [
+
+        {"name": "North Indian", "size": 3534},
+        {"name": "Biryani", "size": 3534},
+        {"name": "Chinese", "size": 3534},
+        {"name": "Mughlai", "size": 5731},
+        {"name": "Punjabi", "size": 7840},
+        {"name": "Kebabs", "size": 3534},
+        {"name": "Beverages", "size": 3534}
+    
+   ]
+  },
+  {
+   "name": "Kustha",
+   "children": [
+        {"name": "North Indian", "size": 3534},
+        {"name": "Mughlai", "size": 5731},
+        {"name": "Biryani", "size": 3534},
+        {"name": "Indian", "size": 3534}
+    
+   ]
+  },
+  {
+   "name": "Mannat",
+   "children": [
+    
+        {"name": "North Indian", "size": 3534},
+        {"name": "Biryani", "size": 3534},
+        {"name": "Chinese", "size": 3534},
+        {"name": "Mughlai", "size": 5731},
+        {"name": "Punjabi", "size": 7840},
+        {"name": "Kebabs", "size": 3534},
+        {"name": "Beverages", "size": 3534}
+     ]
+    },
+    {
+     "name": "Naddu's Parathas & TND Fastfood",
+     "children": [
+      
+        {"name": "North Indian", "size": 3534}
+        
+     ]
+    },
+    {
+     "name": "Talli Bar & Kitchen",
+     "children": [
+        {"name": "North Indian", "size": 3534},
+        {"name": "Continental", "size": 3534},
+        {"name": "Thai", "size": 3534},
+        {"name": "Indian", "size": 5731},
+        {"name": "Asian", "size": 7840}
+        
+     ]
+    },
+    {
+     "name": "Publiq",
+     "children": [
+        {"name": "Continental", "size": 3534},
+        {"name": "North Indian", "size": 3534},
+        {"name": "Mughlai", "size": 5731},
+        {"name": "Fast Food", "size": 7840},
+        {"name": "Chinese", "size": 3534},
+        {"name": "Beverages", "size": 3534}
+     ]
+    }
+    
+    
+    
+   ]
+  }
+]
+
+}
